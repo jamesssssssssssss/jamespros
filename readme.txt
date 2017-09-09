@@ -10,3 +10,5 @@ hello git
     "title": "",
     "body": "欢迎您进入到存票的世界，存票是一张会增值的会员卡，若您在使用过程中有任何疑问，欢迎您致电客服电话：400-996-5008",
     "icon": "https://m.cunpiao.com/Static/images/zhushou.png"
+    
+    James恭送 斯蒂芬
